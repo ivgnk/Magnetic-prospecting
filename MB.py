@@ -96,10 +96,10 @@ for i in range(len(hi)):
                 h_si[n] = h_sgs[n]*coeff
                 t_si[n]= math.hypot(z_si[n], h_si[n])
 
-            plt.grid()  # включение отображение сетки
             plt.plot(coo, z_si,  label = 'Верт., r='+str(ri[k])+',м  j='+str(ji[l])+' А/м')
             plt.plot(coo, h_si,  label = 'Гориз., r='+str(ri[k])+',м  j='+str(ji[l])+' А/м')
             plt.plot(coo, t_si,  label = 'Полный, r='+str(ri[k])+',м  j='+str(ji[l])+' А/м \n')
-            plt.legend(loc='upper right', fontsize=7) # положение легенды в верхнем правом углу
+    plt.legend(loc='upper right', fontsize=7) # положение легенды в верхнем правом углу
+    plt.grid()  # включение отображение сетки
 plt.show() # показываем график
 print('Нормальное завершение')
