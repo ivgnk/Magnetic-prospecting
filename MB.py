@@ -75,7 +75,7 @@ ji = [0.250, 0.500]         # несколько вариантов намагн
 # задаем размер окна
 plt.figure(figsize=(18, 12)) # x и y – ширина и высота рис. в  дюймах
 
-colors = ['red','black', 'green']    # цвета для отдельных кривых магнитногго поля
+colors = ['red','black', 'green']    # цвета для отдельных кривых магнитного поля
 linestyles = ['-', '--', '-.',':']   # типы линий для вариантов сочетаний радиуса и намагниченности
 for i in range(len(hi)):             # Перебор по глубинам
     nls_ = -1 # код типа линии сбрасываем для каждого варианта глубины
@@ -97,7 +97,7 @@ for i in range(len(hi)):             # Перебор по глубинам
                 h_si[n] = h_sgs[n]*coeff  # Гориз. сост. в СИ в нТл
                 t_si[n]= math.hypot(z_si[n], h_si[n]) # Полный вектор в СИ в нТл
 
-            # Линии  необходимым форматированием
+            # Линии c необходимым форматированием
             plt.plot(coo, z_si, color = colors[0], linestyle=linestyles[nls_], label = 'Верт., r='+str(ri[k])+',м  j='+str(ji[l])+' А/м')
             plt.plot(coo, h_si, color = colors[1], linestyle=linestyles[nls_], label = 'Гориз., r='+str(ri[k])+',м  j='+str(ji[l])+' А/м')
             plt.plot(coo, t_si, color = colors[2], linestyle=linestyles[nls_], label = 'Полный, r='+str(ri[k])+',м  j='+str(ji[l])+' А/м \n')
