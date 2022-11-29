@@ -1,7 +1,7 @@
 # Magnetic-prospecting
 Various calculations for magnetic prospecting
 
-The program <font color="blue"><b>MB.py</b></font> outputs the following images
+The program <font color="#0000ff"><b>MB.py</b></font> outputs the following images
 
 
 ![Figure_2](https://user-images.githubusercontent.com/20105840/204506631-070fe34d-b102-4df6-a40b-66634ec02ab7.png)
