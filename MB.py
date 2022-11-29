@@ -1,3 +1,4 @@
+# Calculation of the magnetic field of the ball on the profile
 # Расчет магнитного поля шара на профиле
 # Calculation of the magnetic field of the ball on the profile
 
@@ -102,5 +103,3 @@ for i in range(len(hi)):
             plt.legend(loc='upper right', fontsize=7) # положение легенды в верхнем правом углу
 plt.show() # показываем график
 print('Нормальное завершение')
-
-
