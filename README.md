@@ -23,7 +23,9 @@ The origin of the coordinates is above the center of the ball
 #### Formulas: 
 In [International System of Units, SI](https://en.wikipedia.org/wiki/International_System_of_Units)             
 Magnetic moment of the ball               
-$$M = \frac{4}{3} \cdot \pi \cdot J \cdot R^3$$
+$$\begin{flushleft}
+M = \frac{4}{3} \cdot \pi \cdot J \cdot R^3
+\end{flushleft}$$
 
 Vertical component         
 $$Z_a = \frac{\mu_0}{4\pi} \cdot \frac{M(2h^2 - x^2)}{(h^2 + x^2)^{5/2}}$$
