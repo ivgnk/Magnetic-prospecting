@@ -17,7 +17,7 @@ The ball is vertically magnetized
 h - the depth of the center of the ball in meters         
 R - the radius of the ball in meters        
 J - magnetization in A/m             
-The magnetic field is calculated on a straight line (profile) with coordinates from -250 m to 250 m with step 5 m.    
+The magnetic field is calculated on a straight line (profile or axis x) with coordinates from -250 m to 250 m with step 5 m.    
 The origin of the coordinates is above the center of the ball       
 
 #### Formulas: 
@@ -26,7 +26,7 @@ Magnetic moment of the ball
 $$M = \frac{4}{3} \cdot \pi \cdot J \cdot R^3$$
 
 Vertical component         
-$$Z_a = \frac{\mu_0}{4\pi} M$$  \frac     
+$$Z_a = \frac{\mu_0}{4\pi} \cdot \frac{M(2h^2-x^2}     
 
 Horizontal component
 
