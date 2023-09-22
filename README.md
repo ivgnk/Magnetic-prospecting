@@ -21,12 +21,12 @@ The magnetic field is calculated on a straight line (profile) with coordinates f
 The origin of the coordinates is above the center of the ball       
 
 #### Formulas: 
-In [International System of Units, SI](https://en.wikipedia.org/wiki/International_System_of_Units)
+In [International System of Units, SI](https://en.wikipedia.org/wiki/International_System_of_Units)             
 Magnetic moment of the ball
 $$M = 4/3 \cdot \pi \cdot J \cdot R^3$$
 
 Vertical component         
-$$$$
+$$Z_a = M $$
 
 Horizontal component
 
