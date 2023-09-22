@@ -11,6 +11,7 @@ full vector (green) of  ball
 ![Figure_2](https://user-images.githubusercontent.com/20105840/204506631-070fe34d-b102-4df6-a40b-66634ec02ab7.png)
 
 Ball parameters:           
+#### Data
 The ball is vertically magnetized
 h - the depth of the center of the ball in meters         
 R - the radius of the ball in meters        
