@@ -41,3 +41,6 @@ $$T_a=\sqrt{(Z_a^2 + Н_a^2)}$$
 
 **2 Image**:
 ![Figure_3](https://user-images.githubusercontent.com/20105840/204506664-fa6fcdf7-5ee6-4b8f-998e-433f183b442d.png)
+
+Several variants of the magnetic field at different parameters of the ball occurrence are presented         
+Four windows show the magnetic field for different variations of the depths of the center of the ball: 50 m, 100 m, 150 m, 200 m          
