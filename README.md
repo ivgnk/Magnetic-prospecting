@@ -26,9 +26,10 @@ Magnetic moment of the ball
 $$M = \frac{4}{3} \cdot \pi \cdot J \cdot R^3                        $$
 
 Vertical component         
-$$Z_a = \frac{\mu_0}{4\pi} \cdot \frac{M(2h^2 - x^2)}{(h^2 + x^2)^{5/2}}$$
+$$Z_a = \frac{\mu_0}{4\pi} \cdot \frac{M(2h^2 - x^2)}{(h^2 + x^2)^{5/2}}$$           
 
 Horizontal component
+$$H_a = - \frac{\mu_0}{4\pi} \cdot \frac{3Mhx}{(h^2 + x^2)^{5/2}}$$       
 
 Full vector        
 
