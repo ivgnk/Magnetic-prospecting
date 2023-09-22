@@ -13,14 +13,14 @@ full vector (green) of  ball
 Ball parameters:           
 The ball is vertically magnetized
 h - the depth of the center of the ball in meters         
-r - the radius of the ball in meters        
-j - magnetization in A/m             
+R - the radius of the ball in meters        
+J - magnetization in A/m             
 The magnetic field is calculated on a straight line (profile) with coordinates from -250 m to 250 m with step 5 m.    
 The origin of the coordinates is above the center of the ball       
 
 Formulas:            
 Magnetic moment of the ball
-$$M = 4/3 \cdot \pi \cdot J \cdot R$$
+$$M = 4/3 \cdot \pi \cdot J \cdot R^3$$
 
 Vertical component         
 
