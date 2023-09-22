@@ -33,7 +33,7 @@ $$H_a = - \frac{\mu_0}{4\pi} \cdot \frac{3Mhx}{(h^2 + x^2)^{5/2}}$$
 
 Full vector        
 
-$$T_a=\sqrt(Z_a^2 + Н_a^2)$$
+$$T_a=\sqrt{(Z_a^2 + Н_a^2)}$$
    
    
 
