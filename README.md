@@ -42,5 +42,11 @@ $$T_a=\sqrt{(Z_a^2 + Н_a^2)}$$
 **2 Image**:
 ![Figure_3](https://user-images.githubusercontent.com/20105840/204506664-fa6fcdf7-5ee6-4b8f-998e-433f183b442d.png)
 
-Several variants of the magnetic field at different parameters of the ball occurrence are presented         
+Several variants of the magnetic field (vertical component, horizontal component, full vector) at different parameters of the ball occurrence are presented         
 Four windows show the magnetic field for different variations of the depths of the center of the ball: 50 m, 100 m, 150 m, 200 m          
+In each window there are four possible sub-variants with different values of the radius and magnetization of the ball:
+R = 10 m, J = 0.25 A/m,
+R = 10 m, J = 0.50 A/m,
+R = 20 m, J = 0.25 A/m,
+R = 20 m, J = 0.50 A/m.
+
