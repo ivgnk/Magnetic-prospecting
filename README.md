@@ -20,8 +20,7 @@ The origin of the coordinates is above the center of the ball
 
 Formulas:            
 Magnetic moment of the ball
-$$ M = 4/3JR
-$$
+$$M = 4/3JR$$
 
 Vertical component         
 
