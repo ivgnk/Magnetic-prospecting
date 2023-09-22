@@ -26,7 +26,7 @@ Magnetic moment of the ball
 $$M = \frac{4}{3} \cdot \pi \cdot J \cdot R^3$$
 
 Vertical component         
-$$Z_a = frac{\mu_0}{4\pi}M $$     
+$$Z_a = frac{\mu_0}{4\pi}M$$       
 
 Horizontal component
 
