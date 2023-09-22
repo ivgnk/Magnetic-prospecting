@@ -23,7 +23,7 @@ The origin of the coordinates is above the center of the ball
 #### Formulas: 
 In [International System of Units, SI](https://en.wikipedia.org/wiki/International_System_of_Units)             
 Magnetic moment of the ball               
-$$\Big(M = \frac{4}{3} \cdot \pi \cdot J \cdot R^3)$$
+$$\BigM = \frac{4}{3} \cdot \pi \cdot J \cdot R^3)$$
 
 Vertical component         
 $$Z_a = M $$
