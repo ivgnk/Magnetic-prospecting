@@ -1,6 +1,7 @@
 # Magnetic-prospecting
 Various calculations for magnetic prospecting
 
+### MB
 The program <font color="#0000ff"><b>MB.py</b></font> outputs the following images
 
 **1 Image**: Magnetic field (Magnetic field induction) in nT:       
