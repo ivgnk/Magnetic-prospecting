@@ -3,7 +3,10 @@ Various calculations for magnetic prospecting
 
 The program <font color="#0000ff"><b>MB.py</b></font> outputs the following images
 
-**1 Image**: Magnetic field in nT: vertical component (blue), horizontal component (orange) and full vector (green) of Magnetic field induction of ball            
+**1 Image**: Magnetic field (Magnetic field induction) in nT:       
+vertical component (blue)             
+horizontal component (orange)          
+full vector (green) of  ball            
 ![Figure_2](https://user-images.githubusercontent.com/20105840/204506631-070fe34d-b102-4df6-a40b-66634ec02ab7.png)
 
 Ball parameters:           
@@ -13,7 +16,7 @@ j - magnetization in A/m
 The magnetic field is calculated on a straight line (profile) with coordinates from -250 m to 250 m with step 5 m.    
 The origin of the coordinates is above the center of the ball       
 
-
+Formulas:            
 
 
 
